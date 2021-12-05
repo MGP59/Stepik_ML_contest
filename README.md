@@ -6,7 +6,7 @@
 
 Описание данных:
 
-events_train.csv - данные о действиях, которые совершают студенты со стэпами
+events_train.csv{https://stepik.org/media/attachments/course/4852/event_data_train.zip} - данные о действиях, которые совершают студенты со стэпами
 
 step_id - id стэпа
 user_id - анонимизированный id юзера
@@ -16,7 +16,7 @@ discovered - пользователь перешел на стэп
 viewed - просмотр шага,
 started_attempt - начало попытки решить шаг, ранее нужно было явно нажать на кнопку - начать решение, перед тем как приступить к решению практического шага
 passed - удачное решение практического шага
-submissions_train.csv - данные о времени и статусах сабмитов к практическим заданиям
+submissions_train.csv{https://stepik.org/media/attachments/course/4852/submissions_data_train.zip} - данные о времени и статусах сабмитов к практическим заданиям
 
 step_id - id стэпа
 timestamp - время отправки решения в формате unix date
